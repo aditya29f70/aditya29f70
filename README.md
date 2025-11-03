@@ -1,3 +1,10 @@
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Ai/ML/DL from India</h3>
 
@@ -18,7 +25,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wD-HgCcvMHDV0rGBlF0BOvvR0iFi803k/view?usp=sharing](https://drive.google.com/file/d/1wD-HgCcvMHDV0rGBlF0BOvvR0iFi803k/view?usp=sharing)
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -116,10 +122,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aditya29f70/aditya29f70/output/snake.svg" alt="Snake animation" />
-
-###
