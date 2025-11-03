@@ -17,13 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wD-HgCcvMHDV0rGBlF0BOvvR0iFi803k/view?usp=sharing](https://drive.google.com/file/d/1wD-HgCcvMHDV0rGBlF0BOvvR0iFi803k/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aditya81023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya81023" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-kumar-9a47b9310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-9a47b9310" height="30" width="40" /></a>
-<a href="https://kaggle.com/adityakumar29f70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adityakumar29f70" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya.kumar81ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.kumar81ra" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
